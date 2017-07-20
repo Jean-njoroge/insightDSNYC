@@ -17,4 +17,4 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 
 Notebook 1:  Identifying problem scope and Getting data.
 
-Notebook goal:Identify the types of information contained in our data set in this notebook I used Python modules to import external data sets for the purpose of getting to know/familiarize myself with the data to get a good grasp of the data and think about how to handle the data in different ways. 
+Notebook goal:Identify the types of information contained in our data set in this notebook 
