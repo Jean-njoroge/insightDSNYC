@@ -10,8 +10,11 @@ For my data science project, I used publicly available data from the United Stat
 ### Overview:
 
 The analysis is divided into four sections, saved in juypter notebooks in this repository
-1. Identifying the problem  and Data Sources
-2. Exploratory Data Analysis
-3. Pre-Processing the Data
-4. Build model to predict whether breast cell tissue is  malignant or Benign
+1. Identifying the problem scope and Data Sources
+2. Text/Data Preprocessing
+3. Model Training and Evaluation
+4. Some Visualization. 
 
+Notebook 1:  Identifying problem scope and Getting data.
+
+Notebook goal:Identify the types of information contained in our data set in this notebook I used Python modules to import external data sets for the purpose of getting to know/familiarize myself with the data to get a good grasp of the data and think about how to handle the data in different ways. 
