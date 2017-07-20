@@ -13,7 +13,7 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 1. Identifying the problem scope and Data Sources
 2. Text/Data Preprocessing
 3. Model Training and Evaluation
-4. Some Visualization. 
+4. Visualization. 
 
 Notebook 1:  Identifying problem scope and Getting data.
 
